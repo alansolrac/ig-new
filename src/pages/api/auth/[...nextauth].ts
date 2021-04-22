@@ -13,18 +13,18 @@ export default NextAuth({
       scope: 'read:user'
     }),
   ],
-  // callbacks: {
-  //   async signIn(user, account, profile) {
-  //     const { email } = user
+  callbacks: {
+    async signIn(user, account, profile) {
+      const { email } = user
 
-  //     await fauna.query(
-  //       q.Create(
-  //         q.Collection('users'),
-  //         { data: { email } }
-  //       )
-  //     )
+      await fauna.query(
+        q.Create(
+          q.Collection('users'),
+          { data: { email } }
+        )
+      )
 
-  //     return true
-  //   }
-  // } ERRO NA COLETA DO FAUNADB
+      return true
+    }
+  }
 })
