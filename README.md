@@ -22,7 +22,7 @@
     src="https://img.shields.io/github/repo-size/alansolrac/ig-news?color=%23EBA417"
   />
   <a
-    href="https://github.com/alansolrac/ignews/commits/master"
+    href="https://github.com/alansolrac/ig-news/commits/master"
     ><img
       alt="GitHub last commit"
       src="https://img.shields.io/github/last-commit/alansolrac/ig-news?color=%23EBA417"
