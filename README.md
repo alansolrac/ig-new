@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alansolrac/"
+  <a href="https://www.linkedin.com/in/alan-oliveira-9981361b6/"
     ><img
       alt="Made by"
       src="https://img.shields.io/badge/made%20by-Pedro%20Gomes-%23EBA417"
