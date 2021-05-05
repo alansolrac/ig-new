@@ -19,17 +19,17 @@
   /></a>
   <img
     alt="Repository size"
-    src="https://img.shields.io/github/repo-size/alansolrac/ignews?color=%23EBA417"
+    src="https://img.shields.io/github/repo-size/alansolrac/ig-news?color=%23EBA417"
   />
   <a
     href="https://github.com/alansolrac/ignews/commits/master"
     ><img
       alt="GitHub last commit"
-      src="https://img.shields.io/github/last-commit/alansolrac/ignews?color=%23EBA417"
+      src="https://img.shields.io/github/last-commit/alansolrac/ig-news?color=%23EBA417"
   /></a>
   <img
     alt="GitHub"
-    src="https://img.shields.io/github/license/alansolrac/ignews?color=%23EBA417"
+    src="https://img.shields.io/github/license/alansolrac/ig-news?color=%23EBA417"
   />
 </p>
 
