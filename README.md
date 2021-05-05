@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/alan-oliveira-9981361b6/"
     ><img
       alt="Made by"
-      src="https://img.shields.io/badge/made%20by-Pedro%20Gomes-%23EBA417"
+      src="https://img.shields.io/badge/made%20by-Alan%20Oliveira-%23EBA417"
   /></a>
   <img
     alt="Repository size"
